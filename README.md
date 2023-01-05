@@ -1,0 +1,1 @@
+Projeto de uma calculadora básica utilizando Tkinter
